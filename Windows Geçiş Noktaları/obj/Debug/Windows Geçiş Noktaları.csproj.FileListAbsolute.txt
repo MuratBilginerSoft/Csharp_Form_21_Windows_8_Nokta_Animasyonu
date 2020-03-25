@@ -1,0 +1,18 @@
+c:\users\murat\documents\visual studio 2013\Projects\Windows Geçiş Noktaları\Windows Geçiş Noktaları\bin\Debug\Windows Geçiş Noktaları.exe.config
+c:\users\murat\documents\visual studio 2013\Projects\Windows Geçiş Noktaları\Windows Geçiş Noktaları\bin\Debug\Windows Geçiş Noktaları.exe
+c:\users\murat\documents\visual studio 2013\Projects\Windows Geçiş Noktaları\Windows Geçiş Noktaları\bin\Debug\Windows Geçiş Noktaları.pdb
+c:\users\murat\documents\visual studio 2013\Projects\Windows Geçiş Noktaları\Windows Geçiş Noktaları\obj\Debug\Windows Geçiş Noktaları.csprojResolveAssemblyReference.cache
+c:\users\murat\documents\visual studio 2013\Projects\Windows Geçiş Noktaları\Windows Geçiş Noktaları\obj\Debug\Windows_Geçiş_Noktaları.Form1.resources
+c:\users\murat\documents\visual studio 2013\Projects\Windows Geçiş Noktaları\Windows Geçiş Noktaları\obj\Debug\Windows_Geçiş_Noktaları.Properties.Resources.resources
+c:\users\murat\documents\visual studio 2013\Projects\Windows Geçiş Noktaları\Windows Geçiş Noktaları\obj\Debug\Windows Geçiş Noktaları.csproj.GenerateResource.Cache
+c:\users\murat\documents\visual studio 2013\Projects\Windows Geçiş Noktaları\Windows Geçiş Noktaları\obj\Debug\Windows Geçiş Noktaları.exe
+c:\users\murat\documents\visual studio 2013\Projects\Windows Geçiş Noktaları\Windows Geçiş Noktaları\obj\Debug\Windows Geçiş Noktaları.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\99 Windows 8 Nokta Animasyonu\Windows Geçiş Noktaları\bin\Debug\Windows Geçiş Noktaları.exe.config
+E:\03 - Yazılım\05 - Büyük Projeler\99 Windows 8 Nokta Animasyonu\Windows Geçiş Noktaları\bin\Debug\Windows Geçiş Noktaları.exe
+E:\03 - Yazılım\05 - Büyük Projeler\99 Windows 8 Nokta Animasyonu\Windows Geçiş Noktaları\bin\Debug\Windows Geçiş Noktaları.pdb
+E:\03 - Yazılım\05 - Büyük Projeler\99 Windows 8 Nokta Animasyonu\Windows Geçiş Noktaları\obj\Debug\Windows Geçiş Noktaları.csprojResolveAssemblyReference.cache
+E:\03 - Yazılım\05 - Büyük Projeler\99 Windows 8 Nokta Animasyonu\Windows Geçiş Noktaları\obj\Debug\Windows_Geçiş_Noktaları.Form1.resources
+E:\03 - Yazılım\05 - Büyük Projeler\99 Windows 8 Nokta Animasyonu\Windows Geçiş Noktaları\obj\Debug\Windows_Geçiş_Noktaları.Properties.Resources.resources
+E:\03 - Yazılım\05 - Büyük Projeler\99 Windows 8 Nokta Animasyonu\Windows Geçiş Noktaları\obj\Debug\Windows Geçiş Noktaları.csproj.GenerateResource.Cache
+E:\03 - Yazılım\05 - Büyük Projeler\99 Windows 8 Nokta Animasyonu\Windows Geçiş Noktaları\obj\Debug\Windows Geçiş Noktaları.exe
+E:\03 - Yazılım\05 - Büyük Projeler\99 Windows 8 Nokta Animasyonu\Windows Geçiş Noktaları\obj\Debug\Windows Geçiş Noktaları.pdb
